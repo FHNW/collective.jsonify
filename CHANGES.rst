@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.2 (unreleased)
-----------------
+1.1.post1 (2016-10-31)
+----------------------
 
 - When doing an export with ``export_content`` and having constraints to skip
   items, still allow to walk into subitems of the skipped ones - except for
