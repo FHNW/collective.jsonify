@@ -1,6 +1,12 @@
 Changelog
 =========
 
+1.1.post2 (unreleased)
+----------------------
+
+- Nothing changed yet.
+
+
 1.1.post1 (2016-10-31)
 ----------------------
 
